@@ -1,6 +1,6 @@
-#Refactoring / Refactorización
+# Refactoring / Refactorización
 
-Explicacion
+## Explicación
 
 
 * [Ejercicios]
