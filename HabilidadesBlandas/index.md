@@ -1,7 +1,7 @@
 # Habilidades Blandas
 
-##Explicacion
+## Explicacion
 
-##Habilidades
+## Habilidades
 
 * [Traducir Necesidad A Tecnología](TraducirNecesidadATecnologia/index.md)
