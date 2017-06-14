@@ -1,3 +1,7 @@
 # Habilidades Tecnicas
 
-Explicacion
+## Explicacion
+
+## Habilidades
+
+* [Refactoring](Refactoring/index.md)
